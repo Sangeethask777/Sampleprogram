@@ -19,7 +19,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>sampleprogram.Testprogram</mainClass>
+<mainClass>sampleprogram.TestProgram</mainClass>
 </manifest>
 </archive>
 </configuration>
